@@ -73,7 +73,7 @@
 عملكر: وظيفه انجام اعمال برروى محيط .
  
 ٢ ١-با توجه به شبه كد زيرعامل ومحيط را در دنياى جاروبرقى تفسير كنيد واينكه معياركارايى جاروبرقى با ذكر دليل چيست؟
-
+```
 function REFLEX-VACUUM-AGENT ([location, status])
     return an action
 
@@ -81,7 +81,7 @@ function REFLEX-VACUUM-AGENT ([location, status])
 
     then return Right => else if location == A
 
-    return Left else => if location == B then
+    return Left else => if location == B then```
 
 محيط: اتاقهاى b,a
 
